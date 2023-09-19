@@ -1,14 +1,14 @@
 # WebApp Template w/ FastAPI, React.js and Typescript
 
-    This is a template for a Webapp using React.js and Typescript for the UI and FastAPI as the API.
+    This is a template for a Webapp using React.js and Javascript for the UI and FastAPI as the API.
 
 # Getting Started
 
 1. Install UI dependencies and build app
 ```bash
 # run from ui/ directory
-npm install
-npm run build
+yarn install
+yarn build
 ```
 2. Install API dependencies
 ```bash
