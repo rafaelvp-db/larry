@@ -74,7 +74,7 @@ h1, p {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 7px;
+    margin-top: 6px;
   }
   
   .messagesSection {

@@ -20,7 +20,7 @@ const Chat = props => {
     console.log("data: " + data);
 
     axios
-      .post('http://localhost:8080/predict', data)
+      .post('/generate', data)
       .then(response => {
         const responseData = {
           text: response.data["answer"],
